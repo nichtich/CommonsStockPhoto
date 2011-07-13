@@ -1,0 +1,13 @@
+Reusing images from Wikimedia Commons should be easy.
+
+
+MediaWikiImageSource.php
+    Class to retrieve image information from Wikimedia Commons
+
+index.php
+    web interface to play around
+
+Proxy_Request.php
+    Proxy Server Support for VuFind. Only needed to in VuFind.
+    Source: https://vufind.svn.sourceforge.net/svnroot/vufind/trunk 
+
